@@ -32,4 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alphaovi&show_icons=true&locale=en" alt="alphaovi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alphaovi&" alt="alphaovi" /></p>
-<h1>My Inspiration Link. <a>https://rahuldkjain.github.io/gh-profile-readme-generator/</a></h1>
+<h1>My Inspiration Link: <a href="https://rahuldkjain.github.io/gh-profile-readme-generator">Link</a></h1>

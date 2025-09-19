@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Node, Mongoose**
 
-- 📝 I regularly write articles on [https://dev.to/alphaovi](https://dev.to/alphaovi)
+
 
 - 💬 Ask me about **React**
 
